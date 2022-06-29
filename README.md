@@ -1,6 +1,6 @@
 - Hi, I’m @TungLee518
 - I’m interested in volleyball :volleyball: and animals :dog2:
-- I’m currently learning statistic :chart_with_upwards_trend:
+- Skills: animal science, Python, statistic :chart_with_upwards_trend:
 - This is my email: maymmm518@gmail.com :mailbox_with_mail:
 
 <!---
