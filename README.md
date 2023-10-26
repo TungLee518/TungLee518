@@ -1,6 +1,6 @@
 - Hi, I’m @TungLee518
+- Major in Swift and Python.
 - I’m interested in volleyball :volleyball: and animals :dog2:
-- Skills: animal science, Python, statistic :chart_with_upwards_trend:
 - This is my email: maymmm518@gmail.com :mailbox_with_mail:
 
 <!---
